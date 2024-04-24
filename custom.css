@@ -1,0 +1,69 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+header{
+	Background-image: url(colorpaws.jpeg);
+	background-size: cover;
+	background-position: center;
+
+}
+h1 {
+  font-family: "Shrikhand", serif;
+  color:#9E4244;
+  font-weight: 450;
+  font-style: normal;
+}
+.lead{
+	color:black;
+}
+h2{
+	font-family: "Shrikhand", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+h3{
+	font-family: "Shrikhand", serif;
+  color:black;
+  font-weight: 200;
+  font-style: normal;
+
+}
+
+
+#Poochon{
+	background:#FFB6C1;
+	background-image: url(Bella.JPG);
+	background-position: right;
+	background-repeat: no-repeat;
+	text-align: left;
+}
+#Corgi{
+	background:#AC94F4; 
+	background-image: url(corgi.jpeg);
+	background-position: right;
+	background-repeat: no-repeat;
+	text-align: left;
+}
+
+#Labradoodle{
+	background:#f5c77e;
+	background-image: url(labradoodle.jpeg);
+	background-position: right;
+	background-repeat: no-repeat;
+	text-align: left;
+}
+
+#Pomski{
+	background:#FFB6C1;
+	background-image: url(Pomski.jpeg);
+	background-position: right;
+	background-repeat: no-repeat;
+	text-align: left;
+
+}
+
+#Samoyed{
+	background:#ADD8E6;
+	background-image: url(Samoyed.jpeg);
+	background-position: right;
+	background-repeat: no-repeat;
+	text-align: left;
+}
